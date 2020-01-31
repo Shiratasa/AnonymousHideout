@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\image_picker\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\2ccdf4bb1e268d4b4468dc17945d75ae\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\image_picker\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\2ccdf4bb1e268d4b4468dc17945d75ae\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\image_picker\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\2ccdf4bb1e268d4b4468dc17945d75ae\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\image_picker\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\2ccdf4bb1e268d4b4468dc17945d75ae\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\image_picker\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\2ccdf4bb1e268d4b4468dc17945d75ae\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    }
+]

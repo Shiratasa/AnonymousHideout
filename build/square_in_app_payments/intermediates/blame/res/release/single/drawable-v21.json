@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\3e189112f165e03bf94d25f1209c3b75\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\3e189112f165e03bf94d25f1209c3b75\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\5307e01186fc0a6b8a3f48738d87813a\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\3e189112f165e03bf94d25f1209c3b75\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\3e189112f165e03bf94d25f1209c3b75\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\3e189112f165e03bf94d25f1209c3b75\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]

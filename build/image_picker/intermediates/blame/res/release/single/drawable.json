@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\image_picker\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\2ccdf4bb1e268d4b4468dc17945d75ae\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\image_picker\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\2ccdf4bb1e268d4b4468dc17945d75ae\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\image_picker\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\2ccdf4bb1e268d4b4468dc17945d75ae\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\image_picker\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\2ccdf4bb1e268d4b4468dc17945d75ae\\res\\drawable\\notification_tile_bg.xml"
+    }
+]

@@ -1,0 +1,15 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore-0.12.10+2\\
+firebase_auth=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_auth-0.14.0+9\\
+firebase_core=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core-0.4.2+1\\
+firebase_messaging=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_messaging-5.1.8\\
+firebase_storage=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_storage-3.0.8\\
+flutter_inapp_purchase=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_inapp_purchase-0.6.9\\
+flutter_local_notifications=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_local_notifications-0.8.4+3\\
+fluttertoast=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-3.1.3\\
+google_sign_in=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_sign_in-4.0.14\\
+image_picker=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\image_picker-0.6.2+1\\
+path_provider=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider-1.4.4\\
+shared_preferences=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences-0.5.4+6\\
+sqflite=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\sqflite-1.1.7+2\\
+square_in_app_payments=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\square_in_app_payments-1.2.3\\

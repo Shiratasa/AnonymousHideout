@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\3e189112f165e03bf94d25f1209c3b75\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\3e189112f165e03bf94d25f1209c3b75\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\3e189112f165e03bf94d25f1209c3b75\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\059a86e7b0ec8f93946dc5f92d30ffc2\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\3e189112f165e03bf94d25f1209c3b75\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\3e189112f165e03bf94d25f1209c3b75\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\3e189112f165e03bf94d25f1209c3b75\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\3e189112f165e03bf94d25f1209c3b75\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\3e189112f165e03bf94d25f1209c3b75\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\3e189112f165e03bf94d25f1209c3b75\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\3e189112f165e03bf94d25f1209c3b75\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\3e189112f165e03bf94d25f1209c3b75\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\059a86e7b0ec8f93946dc5f92d30ffc2\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\3e189112f165e03bf94d25f1209c3b75\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\3e189112f165e03bf94d25f1209c3b75\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\3989cd88ea652f8dc669d8dadbe8ad24\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\3e189112f165e03bf94d25f1209c3b75\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\059a86e7b0ec8f93946dc5f92d30ffc2\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\3e189112f165e03bf94d25f1209c3b75\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\3e189112f165e03bf94d25f1209c3b75\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\3989cd88ea652f8dc669d8dadbe8ad24\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\3e189112f165e03bf94d25f1209c3b75\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\3e189112f165e03bf94d25f1209c3b75\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\3e189112f165e03bf94d25f1209c3b75\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\3e189112f165e03bf94d25f1209c3b75\\res\\color\\abc_search_url_text.xml"
+    }
+]

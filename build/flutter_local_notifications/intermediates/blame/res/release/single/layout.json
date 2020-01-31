@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\flutter_local_notifications\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\fbf0225b709dd2311284e5339ee150cf\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\flutter_local_notifications\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\fbf0225b709dd2311284e5339ee150cf\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\flutter_local_notifications\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\fbf0225b709dd2311284e5339ee150cf\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\flutter_local_notifications\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\fbf0225b709dd2311284e5339ee150cf\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\flutter_local_notifications\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\fbf0225b709dd2311284e5339ee150cf\\res\\layout\\notification_action_tombstone.xml"
+    }
+]

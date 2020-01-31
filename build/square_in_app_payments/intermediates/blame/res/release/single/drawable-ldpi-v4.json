@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\sqip_small_visa_back.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\a0b38d4243130e754dda6ff1efd2e1a3\\res\\drawable-ldpi-v4\\sqip_small_visa_back.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\sqip_big_discover_back.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\a0b38d4243130e754dda6ff1efd2e1a3\\res\\drawable-ldpi-v4\\sqip_big_discover_back.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\sqip_big_amex_front.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\a0b38d4243130e754dda6ff1efd2e1a3\\res\\drawable-ldpi-v4\\sqip_big_amex_front.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\sqip_big_mastercard_back.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\a0b38d4243130e754dda6ff1efd2e1a3\\res\\drawable-ldpi-v4\\sqip_big_mastercard_back.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\sqip_big_mastercard_front.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\a0b38d4243130e754dda6ff1efd2e1a3\\res\\drawable-ldpi-v4\\sqip_big_mastercard_front.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\sqip_big_unknown_card_front.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\a0b38d4243130e754dda6ff1efd2e1a3\\res\\drawable-ldpi-v4\\sqip_big_unknown_card_front.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\sqip_big_visa_back.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\a0b38d4243130e754dda6ff1efd2e1a3\\res\\drawable-ldpi-v4\\sqip_big_visa_back.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\sqip_big_white_card_back.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\a0b38d4243130e754dda6ff1efd2e1a3\\res\\drawable-ldpi-v4\\sqip_big_white_card_back.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\sqip_big_amex_back.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\a0b38d4243130e754dda6ff1efd2e1a3\\res\\drawable-ldpi-v4\\sqip_big_amex_back.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\sqip_small_white_card_back.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\a0b38d4243130e754dda6ff1efd2e1a3\\res\\drawable-ldpi-v4\\sqip_small_white_card_back.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\sqip_big_union_front.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\a0b38d4243130e754dda6ff1efd2e1a3\\res\\drawable-ldpi-v4\\sqip_big_union_front.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\sqip_small_unknown_card_back.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\a0b38d4243130e754dda6ff1efd2e1a3\\res\\drawable-ldpi-v4\\sqip_small_unknown_card_back.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\sqip_small_discover_front.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\a0b38d4243130e754dda6ff1efd2e1a3\\res\\drawable-ldpi-v4\\sqip_small_discover_front.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\sqip_small_union_front.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\a0b38d4243130e754dda6ff1efd2e1a3\\res\\drawable-ldpi-v4\\sqip_small_union_front.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\sqip_big_unknown_card_back.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\a0b38d4243130e754dda6ff1efd2e1a3\\res\\drawable-ldpi-v4\\sqip_big_unknown_card_back.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\sqip_big_visa_front.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\a0b38d4243130e754dda6ff1efd2e1a3\\res\\drawable-ldpi-v4\\sqip_big_visa_front.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\sqip_small_visa_front.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\a0b38d4243130e754dda6ff1efd2e1a3\\res\\drawable-ldpi-v4\\sqip_small_visa_front.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\sqip_small_unknown_card_front.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\a0b38d4243130e754dda6ff1efd2e1a3\\res\\drawable-ldpi-v4\\sqip_small_unknown_card_front.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\sqip_big_discover_front.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\a0b38d4243130e754dda6ff1efd2e1a3\\res\\drawable-ldpi-v4\\sqip_big_discover_front.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\sqip_big_diners_front.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\a0b38d4243130e754dda6ff1efd2e1a3\\res\\drawable-ldpi-v4\\sqip_big_diners_front.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\sqip_loader_circle.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\a0b38d4243130e754dda6ff1efd2e1a3\\res\\drawable-ldpi-v4\\sqip_loader_circle.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\sqip_big_jcb_front.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\a0b38d4243130e754dda6ff1efd2e1a3\\res\\drawable-ldpi-v4\\sqip_big_jcb_front.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\sqip_big_diners_back.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\a0b38d4243130e754dda6ff1efd2e1a3\\res\\drawable-ldpi-v4\\sqip_big_diners_back.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\sqip_loader_circle_done.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\a0b38d4243130e754dda6ff1efd2e1a3\\res\\drawable-ldpi-v4\\sqip_loader_circle_done.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\sqip_small_error_front.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\a0b38d4243130e754dda6ff1efd2e1a3\\res\\drawable-ldpi-v4\\sqip_small_error_front.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\sqip_small_master_card_back.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\a0b38d4243130e754dda6ff1efd2e1a3\\res\\drawable-ldpi-v4\\sqip_small_master_card_back.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\sqip_small_master_card_front.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\a0b38d4243130e754dda6ff1efd2e1a3\\res\\drawable-ldpi-v4\\sqip_small_master_card_front.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\square_in_app_payments\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\sqip_small_jcb_front.png",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\a0b38d4243130e754dda6ff1efd2e1a3\\res\\drawable-ldpi-v4\\sqip_small_jcb_front.png"
+    }
+]

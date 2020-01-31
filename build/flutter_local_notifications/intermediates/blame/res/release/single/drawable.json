@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\flutter_local_notifications\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\fbf0225b709dd2311284e5339ee150cf\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\flutter_local_notifications\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\fbf0225b709dd2311284e5339ee150cf\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\flutter_local_notifications\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\fbf0225b709dd2311284e5339ee150cf\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\android\\build\\flutter_local_notifications\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\PDA\\.gradle\\caches\\transforms-2\\files-2.1\\fbf0225b709dd2311284e5339ee150cf\\res\\drawable\\notification_icon_background.xml"
+    }
+]
